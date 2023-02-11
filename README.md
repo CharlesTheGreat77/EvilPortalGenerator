@@ -25,5 +25,9 @@ This will copy the file to the pineapples root directory, change otherwise
    - Use ezgif.com to resize to 2000x2000. (Big logo)
 3. Use ezgif.com to resize the company logo 30x30 as well. (Small logo)
 
+# Key note
+sed is used to for string replacement, with that said special characters will need to be escaped with TWO backslashes
+- AT\\&T
+
 # Credits
 https://github.com/kleo/evilportals
