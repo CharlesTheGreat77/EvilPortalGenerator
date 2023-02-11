@@ -27,7 +27,6 @@ This will copy the file to the pineapples root directory, change otherwise
 
 # Key note
 sed is used to for string replacement, with that said special characters will need to be escaped with TWO backslashes
-- AT[\\\]&T
 
 # Credits
 https://github.com/kleo/evilportals
