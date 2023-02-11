@@ -8,12 +8,12 @@ Wifi Pineapple Mark VII 🍍
 1. Evil Portals Module MUST be downloaded
 2. Download evil portals from https://github.com/kleo/evilportals
 
-# Quick Install (copy's file to root directory, change otherwise)
+# Quick Install
 ```
 git clone https://github.com/CharlesTheGreat77/EvilPortalGenerator
 scp -r EvilPortalGenerator/ root@mk7:/root/
 ```
-
+This will copy the file to the pineapples root directory, change otherwise
 
 # Usage (How To)
 1. Find and Download a company pictured background.
