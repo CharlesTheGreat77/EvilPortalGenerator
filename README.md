@@ -21,3 +21,6 @@ scp -r EvilPortalGenerator/ root@mk7:/root/
 2. Find and Download (ideally transparent) company logo.
    - Use ezgif.com to resize to 2000x2000. (Big logo)
 3. Use ezgif.com to resize the company logo 30x30 as well. (Small logo)
+
+# Credits
+https://github.com/kleo/evilportals
