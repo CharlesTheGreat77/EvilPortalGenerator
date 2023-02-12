@@ -40,6 +40,7 @@ read -p "evilportal(largeIcon)> " largeicon
 echo -e "[*] Enter Path to Small Icon [30x30]: "
 read -p "evilportal(smallIcon)> " smallicon
 echo -e "[*] Hexidecimal color code [FF00FF]: "
+echo -e "    - Tip: Look up the company colors in hexadecimal ;)"
 read -p "evilportal(color)> " hexcolor
 echo
 clear
