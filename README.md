@@ -24,6 +24,8 @@ This will copy the file to the pineapples root directory, change otherwise
 2. Find and Download (ideally transparent) company logo.
    - Use ezgif.com to resize to 2000x2000. (Big logo)
 3. Use ezgif.com to resize the company logo 30x30 as well. (Small logo)
+4. Copy the background, and logos to the pineapple in the same directory as EvilPortalGenerator
+5. Run evilPortalGen.sh!
 
 # Key note
 sed is used to for string replacement, with that said special characters will need to be escaped with TWO backslashes
